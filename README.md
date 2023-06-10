@@ -1,2 +1,11 @@
 # RamseyFashionsTemplate
- An HTML landing page template for stiching and sewing services provider.
+
+Ramsey is an HTML landing page template for businesses 
+that provide stiching and sewing services.
+
+### Contact
+
+https://iambozdar.com
+https://twitter.com/iambozdar
+
+Thanks.
